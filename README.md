@@ -18,7 +18,7 @@ Aplikasi ini memungkinkan Anda untuk melakukan **scraping cuitan dari Twitter se
 ## 🛠️ Instalasi & Persiapan
 
 ### 1. **Clone/Download Proyek**
-Unduh file `scrape_twitter.py` atau clone repo ini jika tersedia di GitHub.
+Unduh file `scrape_twitter.py` atau clone repo ini.
 
 ### 2. **Pasang Python & Modul**
 Pastikan Python sudah terinstal, lalu buka terminal dan jalankan:
