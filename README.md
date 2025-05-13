@@ -41,11 +41,14 @@ python scrape_twitter.py
    ```bash
    python scrape.twitter.py
    ```
+   
 2. Isi kolom-kolom berikut:
-  -  🔐 Auth Token: Masukkan token autentikasi Twitter Anda (didapatkan melalui login dengan browser dan melihat cookie auth_token)
-  -  🔍 Kata Kunci Pencarian: Kata/frasa untuk mencari tweet (contoh: makanan, jalanan, ataupun politik)
-  -  🔢 Jumlah Cuitan: Jumlah maksimal cuitan yang ingin diambil (Disarankan tidak usah mengambil sampai 10 ribu tolong berikan yang masuk diakal :) for your best experiences)
+     -  🔐 Auth Token: Masukkan token autentikasi Twitter Anda (didapatkan melalui login dengan browser dan melihat cookie auth_token)
+     -  🔍 Kata Kunci Pencarian: Kata/frasa untuk mencari tweet (contoh: makanan, jalanan, ataupun politik)
+     -  🔢 Jumlah Cuitan: Jumlah maksimal cuitan yang ingin diambil (Disarankan tidak usah mengambil sampai 10 ribu tolong berikan yang masuk diakal :) for your best experiences)
+
 3. Klik tombol "Mulai Scraping"
+   
 4. Tunggu hingga proses selesai. File CSV akan tersimpan otomatis pada folder yang sama disimpannya aplikasi `scrape_twitter.py` (file bernama: data_twitter.csv, data_twitter_1.csv, dst.)
 
 ---
