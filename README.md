@@ -18,7 +18,7 @@ Aplikasi ini memungkinkan Anda untuk melakukan **scraping cuitan dari Twitter se
 ## 🛠️ Instalasi & Persiapan
 
 ### 1. **Clone/Download Proyek**
-Unduh file `scrape_twitter.py` atau clone repo ini.
+Unduh file `fastxcrape.py` atau clone repo ini.
 
 ### 2. **Pasang Python & Modul**
 Pastikan Python sudah terinstal, lalu buka terminal dan jalankan:
@@ -31,15 +31,15 @@ pip install undetected-chromedriver selenium
 Buka terminal dan jalankan:
 
 ```bash
-python scrape_twitter.py
+python fastxcrape.py
 ```
 
 ---
 
 ## ▶️ Cara Menggunakan
-1. Buka aplikasi: jalankan `scrape_twitter.py` dengan cara di cmd/terminal:
+1. Buka aplikasi: jalankan `fastxcrape.py` dengan cara di cmd/terminal:
    ```bash
-   python scrape.twitter.py
+   python fastxcrape.py
    ```
    
 2. Isi kolom-kolom berikut:
@@ -49,14 +49,14 @@ python scrape_twitter.py
 
 3. Klik tombol "Mulai Scraping"
    
-4. Tunggu hingga proses selesai. File CSV akan tersimpan otomatis pada folder yang sama disimpannya aplikasi `scrape_twitter.py` (file bernama: data_twitter.csv, data_twitter_1.csv, dst.)
+4. Tunggu hingga proses selesai. File CSV akan tersimpan otomatis pada folder yang sama disimpannya aplikasi `fastxcrape.py` (file bernama: data_twitter.csv, data_twitter_1.csv, dst.)
 
 ---
 
 ## ✏️ Cara Modifikasi
 
 ### **Ubah Lokasi Simpan File**
-Cari bagian kode berikut di `scrape_twitter.py`:
+Cari bagian kode berikut di `fastxcrape.py`:
 ```bash
 base_name = "data_twitter"
 ```
