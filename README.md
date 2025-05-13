@@ -96,7 +96,7 @@ A: Tidak. Ini adalah tool pihak ketiga yang menggunakan scraping.
 ---
 
 ## 📄 Lisensi
-Proyek ini bebas digunakan untuk edukasi dan eksperimen pribadi. Tidak untuk penggunaan komersial tanpa izin.
+Proyek ini bebas digunakan untuk edukasi dan eksperimen pribadi.
 
 ---
 
