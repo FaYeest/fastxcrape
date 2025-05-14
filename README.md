@@ -4,7 +4,7 @@ Aplikasi ini memungkinkan Anda untuk melakukan **scraping cuitan dari Twitter se
 
 > ⚠️ **Catatan:** Aplikasi ini membutuhkan token autentikasi Twitter aktif dan koneksi internet.
 > 
-> ⚠️ **Warning** Tolong gunakan akun twitter alternatif jangan gunakan akun utama. ⚠️⚠️⚠️
+> ⚠️ **Warning:** Tolong gunakan akun twitter alternatif jangan gunakan akun utama.
 
 ---
 
