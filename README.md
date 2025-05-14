@@ -24,7 +24,7 @@ Unduh file `fastxcrape.py` atau clone repo ini.
 Pastikan Python sudah terinstal, lalu buka terminal dan jalankan:
 
 ```bash
-pip install undetected-chromedriver selenium
+pip install -r requirements.txt
 ```
 
 ### 3. **Jalankan Aplikasinya**
