@@ -79,12 +79,15 @@ Untuk menambahkan tanggal tweet, Anda perlu memodifikasi bagian pengambilan data
 
 ## ❓ FAQ
 Q: Dapat auth token dari mana?
+
 A: Buka `twitter.com/x.com` di browser, login, lalu gunakan `DevTools (F12)` → `tab Application` → `Cookies` → `cari auth_token`.
 
 Q: Apakah aplikasi ini aman?
+
 A: Aplikasi ini berjalan lokal di komputer Anda, tidak mengirim data keluar.
 
 Q: Apakah ini resmi dari Twitter?
+
 A: Tidak. Ini adalah tool pihak ketiga yang menggunakan scraping.
 
 ---
