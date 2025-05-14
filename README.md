@@ -3,7 +3,8 @@
 Aplikasi ini memungkinkan Anda untuk melakukan **scraping cuitan dari Twitter secara otomatis** berdasarkan kata kunci tertentu menggunakan antarmuka grafis (GUI). Hasil cuitan akan disimpan dalam file `.csv`.
 
 > ⚠️ **Catatan:** Aplikasi ini membutuhkan token autentikasi Twitter aktif dan koneksi internet.
-> ⚠️ **Warning** Tolong gunakan akun twitter alternatif jangan gunakan akun utama ⚠️⚠️⚠️
+> 
+> ⚠️ **Warning** Tolong gunakan akun twitter alternatif jangan gunakan akun utama ⚠️⚠️⚠️.
 
 ---
 
